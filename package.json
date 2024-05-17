@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "pdf-lib": "1.17.1",
+    "pdfjs-dist": "^4.2.67",
+    "prop-types": "15.8.1",
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "react-signature-canvas": "1.0.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
